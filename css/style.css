@@ -1,6 +1,6 @@
 body{
-    background: white;
-    color: #333;
+    background: #1e1f24;
+    color: white;
     text-align: center;
     font-family: arial;
     font-size: 16px;
@@ -29,6 +29,8 @@ body{
 }
 
 #container{
+    background: white;
+    color: #1e1f24;
     width: 70%;
     padding: 1em;
     text-align: left;
